@@ -4,14 +4,14 @@ Nesse exercício de Java, você vai precisar usar seus conhecimentos aprendidos 
 
 **Interface gráfica (GUI) não fará parte da avaliação e, portanto, não precisa ser desenvolvida.**
 
-###As principais funcionalidades do sistema devem ser:
+As principais funcionalidades do sistema devem ser:
 
 - Como usuário não-cadastrado, criar perfil de usuário com **nome** e **CPF**
 - Como usuário cadastrado/não-cadastrado, visualizar rotas disponíveis
 - Como usuário cadastrado, reservar uma rota
 - Como usuário cadastrado, cancelar uma reserva
 
-###Como sugestão pense na inclusão das seguintes funcionalidades:
+Como sugestão pense na inclusão das seguintes funcionalidades:
 
 - Reserva de Passagens
 - Cancelamento de Reservas
@@ -19,7 +19,7 @@ Nesse exercício de Java, você vai precisar usar seus conhecimentos aprendidos 
 
 Bom trabalho!
 
-###Opcional:
+### Opcional:
 
 - Fazer um log das transações realizadas no sistema, que deve conter as colunas
     - Timestamp
