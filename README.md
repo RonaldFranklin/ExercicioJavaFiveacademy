@@ -1,7 +1,4 @@
 # ExercicioJavaFiveacademy
-Exercício do Five Academy realizado para treinamento
-
-# Descrição
 
 Nesse exercício de Java, você vai precisar usar seus conhecimentos aprendidos nessa trilha para criar um pequeno sistema de Reserva de Passagens de Avião
 
